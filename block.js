@@ -6,9 +6,11 @@
 wp.blocks.registerBlockStyle( 'core/paragraph', {
 	name: 'blue-paragraph',
 	label: 'Blue Paragraph'
-} );
+}
 
 wp.blocks.registerBlockStyle( 'core/paragraph', {
 	name: 'outlined-paragraph',
 	label: 'Outlined Paragraph'
-} );
+} 
+
+);
