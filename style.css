@@ -8,3 +8,9 @@
 	color: #FFF;
 	padding: 16px;
 }
+
+.is-style-outlined-paragraph {
+	color: #FFF;
+	padding: 16px;
+	border: 5px;
+}
