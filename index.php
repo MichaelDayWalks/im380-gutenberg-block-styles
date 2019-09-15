@@ -1,11 +1,11 @@
 <?php
 
 /**
- * Plugin Name: Gutenberg Block Styles
- * Plugin URI: https://github.com/Automattic/gutenberg-block-styles/
- * Description: A simple plugin to demonstrate how to add block styles to Gutenberg.
- * Version: 1.0
- * Author: Kjell Reigstad
+ * Plugin Name: IM380 Gutenberg Block Styles
+ * Plugin URI: https://github.com/MichaelDayWalks/im380-gutenberg-block-styles/
+ * Description: A simple plugin to add a variety of block styles to the standard Gutenberg blocks.
+ * Version: 0.1
+ * Author: Michael Fairhurst
  */
 
 /**
