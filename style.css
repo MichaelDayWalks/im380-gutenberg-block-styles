@@ -3,12 +3,6 @@
  * If a theme's editor style specifies the same classname, these may be overwritten. 
  */
 
-.is-style-blue-paragraph {
-	background-color: #0087be;
-	color: #FFF;
-	padding: 16px;
-}
-
 .is-style-outlined-paragraph {
 	color: #FFF;
 	padding: 16px;
