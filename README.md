@@ -1,4 +1,7 @@
-# Gutenberg Block Styles Plugin
+# IM380 Gutenberg Block Styles Plugin
+
+## Based on Gutenberg Block Styles Plugin with customisations added as per the block styling requirements for daywalks.co.uk
+As I implement new styles I will add further comments here, and also leave the original boilerplate plugin content below to help anyone who wishes to build out their own plugin from the original boilerplate.
 
 ## Overview
 
